@@ -10,19 +10,6 @@
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- Add more like portfolio, X/Twitter, etc. -->
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -57,7 +44,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alanesc2&show_icons=true&theme=tokyonight" alt="Alanesc2 GitHub Stats" />
 </p>
 
 ---
