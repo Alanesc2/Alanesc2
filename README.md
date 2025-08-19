@@ -2,13 +2,6 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently studying Computer Science
-- 🌱 Learning **Fullstack Development** (React, Node.js, Next.js)
-- ⚡ Exploring **AI**, **Web Dev**, and **Open Source**
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
