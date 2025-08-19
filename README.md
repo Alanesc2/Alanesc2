@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">CS Student | Aspiring Dev | Fullstack</h3>
+<h1 align="center">CS Student | Aspiring Fullstack</h1>
 
 ---
 
